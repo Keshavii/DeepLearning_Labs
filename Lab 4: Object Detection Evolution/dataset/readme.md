@@ -8,6 +8,8 @@ The dataset used in this project consists of images containing multiple object c
 
 ## Dataset Structure
 
+LINK of dataset: https://www.kaggle.com/datasets/mbkinaci/fruit-images-for-object-detection/data
+
 The dataset is organized in a format compatible with YOLO training as well as traditional pipelines:
 
 dataset/
